@@ -4,7 +4,7 @@
 link: [doshishasfa.netlify.app](https://doshishasfa.netlify.app/)
 
 ### Astroの実行
-Astroに興味があったので、試しにhttps://github.com/markhorn-dev/astro-sphere　を使用してページを作りました。勝手にテーマも決めてしまってすみません
+template: https://github.com/markhorn-dev/astro-sphere
 
 astroの使用にはnode.jsが必要になります
 
