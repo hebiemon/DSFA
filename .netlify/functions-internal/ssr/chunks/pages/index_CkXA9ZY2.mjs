@@ -1,6 +1,6 @@
 import { d as createComponent, g as renderTemplate, h as renderComponent, m as maybeRenderHead, i as createAstro, j as addAttribute } from '../astro_COriWUSW.mjs';
 import 'kleur/colors';
-import { g as getCollection, $ as $$TopLayout, A as ABOUT, a as $$BottomLayout, b as $$PageLayout, f as formatDate, c as cn, B as BLOG, S as SEARCH, d as SOCIALS, e as SITE } from './__B4dXIqCf.mjs';
+import { g as getCollection, $ as $$TopLayout, A as ABOUT, a as $$BottomLayout, b as $$PageLayout, f as formatDate, c as cn, B as BLOG, S as SEARCH, d as SOCIALS, e as SITE } from './__C8k79MFV.mjs';
 import { ssr, ssrHydrationKey, escape, createComponent as createComponent$1, ssrAttribute } from 'solid-js/web';
 import { createSignal, createEffect, For } from 'solid-js';
 import 'clsx';
