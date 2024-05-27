@@ -1,20 +1,20 @@
 import { renderers } from './renderers.mjs';
-import { manifest } from './manifest_DXbSm9DQ.mjs';
+import { manifest } from './manifest_CsEi-W6l.mjs';
 import * as serverEntrypointModule from '@astrojs/netlify/ssr-function.js';
 import { onRequest } from './_noop-middleware.mjs';
 
-const _page0 = () => import('./chunks/generic_DQf3Sscv.mjs');
-const _page1 = () => import('./chunks/index_DOaCNVpv.mjs');
-const _page2 = () => import('./chunks/index_BGurIJIj.mjs');
-const _page3 = () => import('./chunks/_.._D9aUlJhO.mjs');
-const _page4 = () => import('./chunks/_.._BLhdRTWe.mjs');
-const _page5 = () => import('./chunks/index_Il3jZO1t.mjs');
-const _page6 = () => import('./chunks/_.._B0XHEn4Q.mjs');
+const _page0 = () => import('./chunks/generic_DqlZBJuh.mjs');
+const _page1 = () => import('./chunks/index_DIfUaKVQ.mjs');
+const _page2 = () => import('./chunks/index_DB4ZpdYZ.mjs');
+const _page3 = () => import('./chunks/_.._Bnaf5eeI.mjs');
+const _page4 = () => import('./chunks/_.._CWTOhe2E.mjs');
+const _page5 = () => import('./chunks/index_DtTJlLjQ.mjs');
+const _page6 = () => import('./chunks/_.._mgA64g66.mjs');
 const _page7 = () => import('./chunks/robots_Csu41fUY.mjs');
-const _page8 = () => import('./chunks/rss_SMUpV7p5.mjs');
-const _page9 = () => import('./chunks/index_CWVyi9Gs.mjs');
-const _page10 = () => import('./chunks/index_Bl3RiedF.mjs');
-const _page11 = () => import('./chunks/index_DcjwDrCe.mjs');
+const _page8 = () => import('./chunks/rss_CvnIcxiO.mjs');
+const _page9 = () => import('./chunks/index_B9ZhxCr1.mjs');
+const _page10 = () => import('./chunks/index_YCPjjkcK.mjs');
+const _page11 = () => import('./chunks/index_DLvaPb7F.mjs');
 const pageMap = new Map([
     ["node_modules/astro/dist/assets/endpoint/generic.js", _page0],
     ["src/pages/about/index.astro", _page1],
@@ -36,7 +36,7 @@ const _manifest = Object.assign(manifest, {
     middleware: onRequest
 });
 const _args = {
-    "middlewareSecret": "20d30586-f977-4d7c-b013-c67a38994e2d"
+    "middlewareSecret": "405223d2-3575-4ffe-a276-37d60f1424f6"
 };
 const _exports = serverEntrypointModule.createExports(_manifest, _args);
 const __astrojsSsrVirtualEntry = _exports.default;
